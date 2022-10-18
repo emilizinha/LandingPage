@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Photoshoot';
+    src: url('../MeuPortfólio/assets/fonts/photoshoot/Photoshoot.otf');
+    src: url('../MeuPortfólio/assets/fonts/photoshoot/Photoshoot.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'The Winter Soldiert';
+    src: url('../MeuPortfólio/assets/fonts/the_winter_soldier/Read\ This.txt');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MySkinnyType';
+    src: url('../MeuPortfólio/assets/fonts/myskinnytype/MySkinnyType.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
