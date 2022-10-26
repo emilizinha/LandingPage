@@ -11,5 +11,6 @@
 
 ### About 📝
 ##### 🔹In this document I tested my skills with HTML and CSS technologies. This project is the beginning of my portfolio so I intend to constantly change it and show my evolution. Below is a picture of how it is currently.
-  <img>![image](https://user-images.githubusercontent.com/99444904/195476702-b4f9b36f-4a8b-491e-b668-a8bcd7deb5b2.png)</img>
+  <img>![26_10_2022 01_13_34](https://user-images.githubusercontent.com/99444904/197933344-f9afd946-bcfc-498e-a016-d9f2449eed96.png)
+</img>
 
